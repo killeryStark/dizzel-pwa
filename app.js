@@ -1,3 +1,3 @@
 if('serviceWorker' in navigator) {
-	navigator.serviceWorker.register("js/sw.js");
+	navigator.serviceWorker.register("https://raw.githubusercontent.com/killeryStark/dizzel-pwa/main/sw.js");
 }
