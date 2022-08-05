@@ -4,7 +4,7 @@
   "lang": "ru-RU",
   "theme_color": "#000",
   "background_color": "#000",
-  "start_url": ".",
+  "start_url": "https://dizzel.ru/",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
