@@ -1,0 +1,7 @@
+{
+  "name": "Dizzel.ru",
+  "short_name": "Dizzel",
+  "lang": "ru-RU",
+  "start_url": "/",
+  "display": "standalone"
+}
