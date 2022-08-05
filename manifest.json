@@ -1,13 +1,16 @@
 {
   "name": "Dizzel.ru",
-  "short_name": "Dizzel",
+  "short_name": "Dizzel.ru",
   "lang": "ru-RU",
-  "start_url": "/",
+  "theme_color": "#000",
+  "background_color": "#000",
+  "start_url": ".",
   "display": "standalone",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "https://imgur.com/OQJIYW4.png",
-      "sizes": "192x192",
+      "sizes": "500x500",
       "type": "image/png"
     }
   ]
